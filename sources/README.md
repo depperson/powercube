@@ -9,4 +9,7 @@ PowerCube_manufacturing_drawings.pdf - Detailed fabrication drawings
 Powercube_v4.pdf - Assembly and user guide for older Powercube4
 
 http://opensourceecology.org/wiki/Power_cube
+
+http://opensourceecology.org/wiki/Power_Cube_6/Bill_of_Materials
+
 http://opensourceecology.org/wiki/Power_Cube_6/Manufacturing_Instructions
